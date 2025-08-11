@@ -1,6 +1,3 @@
-Got it ✅ — here’s a **README.md** you can drop into your GitHub repo that covers both blog posts in a combined, clean format.
-
----
 
 ````markdown
 # 🐝 Hive in Flutter — Complete Guide
